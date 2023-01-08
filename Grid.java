@@ -120,7 +120,7 @@ public class Grid extends JPanel {
 		g.drawString("move will signal GAME OVER!", 1, 430);
 		g.drawString("Press 'esc' to quit.", 1, 455);
 		g.drawString("Press 'enter' for a new game.", 1, 480);
-		g.drawString("Made by Anirudh Goel", 2, -10);
+		g.drawString("Made by Anirudh", 2, -10);
 	}
 	
 	/*
